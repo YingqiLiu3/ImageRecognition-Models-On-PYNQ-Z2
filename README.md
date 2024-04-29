@@ -1,2 +1,2 @@
-# MODELS-ON-PYNQ-Z2
+# IMAGINATION RECOGNITION MODELS ON PYNQ-Z2
 # Our project integrates different algorithm models in the PYNQ-Z2 board: one is to optimize the existing algorithms, encapsulate the trained model into pytorch and form a weight file to realize the classification model and facemasks detection model, and the other is to use the caffe framework to realize the convolution structure of fast feature embedding, and realize the detection of age and gender in the model. T
